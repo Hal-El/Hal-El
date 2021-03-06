@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a programmer from Burma.
 
-I have a soft spot for mathematics and technology.
+I am an introvert.
+
+I am passionate about technology.
