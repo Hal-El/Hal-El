@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-I am an introvert.
+# About Me
 
-I am passionate about technology.
+I'm an introvert.
+
+I have a great passion for technology.
