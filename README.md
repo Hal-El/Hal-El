@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I'm an introvert.
 
-I have a great passion for technology.
+I love mathematics and technology.
