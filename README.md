@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-# About Me
+# About me
 
-I'm an introvert.
-
-I love mathematics and technology.
+I drunk diamonds on a cold night.
