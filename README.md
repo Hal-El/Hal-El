@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 # About me
 
-I drunk diamonds on a cold night.
+I had burnt cookies while it was raining diamonds.
