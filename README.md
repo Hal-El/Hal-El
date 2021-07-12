@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 # About me
 
-I had burnt cookies while it was raining diamonds.
+A novice.
